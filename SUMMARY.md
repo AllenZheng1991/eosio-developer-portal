@@ -17,4 +17,5 @@
 * [2.2 Token的部署、发布和转账](smart-contract/2.2-deploy-issue-and-transfer-tokens.md)
 * [2.3 理解ABI文件](smart_contract/2.3-understanding-abi-files.md)
 * [2.4 数据持久化](smart-contract/2.4-data-persistence.md)
+* [2.5 添加内联操作](smart-contract/2.5-adding-inline-actions.md)
 
