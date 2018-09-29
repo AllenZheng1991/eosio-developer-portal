@@ -16,4 +16,8 @@ EOSIO是一个免费、开源的区块链软件协议，它为开发者和企业
 
 * [2.1 Hello World！](smart-contract/2.1-hello-world.md)
 * [2.2 Token的部署、发布和转账](smart-contract/2.2-deploy-issue-and-transfer-tokens.md)
+* [2.3 理解ABI文件](smart_contract/2.3-understanding-abi-files.md)
+* [2.4 数据持久化](smart-contract/2.4-data-persistence.md)
+
+
 
