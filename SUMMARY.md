@@ -1,7 +1,7 @@
 # Summary
-* [Introduction](README.md)
-## 1.搭建开发环境
 
+## 1.搭建开发环境
+* [Introduction](README.md)
 * [1.1简介](development_environment/1.1introduction.md)
 * [1.2写在开始之前](development_environment/1.2before_you_begin.md)
 * [1.3你的开发环境](development_environment/1.3your_development_environment.md)
