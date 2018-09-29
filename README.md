@@ -1,5 +1,3 @@
-# My Awesome Book
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-123
+EOSIO is a free, open-source blockchain software protocol that provides developers and entrepreneurs with a platform on which to build, deploy and run high-performing decentralized applications (DAPPs)
