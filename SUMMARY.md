@@ -1,6 +1,6 @@
 # Summary
 
-## 1.搭建开发环境
+## 1.Get Start
 
 * [Introduction](README.md)
 * [1.1 简介](development_environment/1.1_introduction.md)
