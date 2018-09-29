@@ -1,4 +1,4 @@
-# Summary
+# 目录结构
 
 ## 1.搭建开发环境
 
@@ -18,4 +18,18 @@
 * [2.3 理解ABI文件](smart_contract/2.3-understanding-abi-files.md)
 * [2.4 数据持久化](smart-contract/2.4-data-persistence.md)
 * [2.5 添加内联操作](smart-contract/2.5-adding-inline-actions.md)
+* [2.6 针对其它合约的内联操作](smart-contract/26-inline-action-to-external-contract.md)
+* [2.7 自定义调度](smart-contract/27-custom-dispatchers.md)
+
+## 3.文档说明
+
+* [3.1 使用前提](using-document/31-assumptions.md)
+* [3.2 提交改进建议](using-document/32-ti-jiao-gai-jin-jian-yi.md)
+* [3.3 HTTP沙盒和示例代码的使用](using-document/33-using-http-sandbox-and-code-samples.md)
+
+## 4.其它资源
+
+* [4.1 获取源代码](resources/4.1-cha-kan-yuan-dai-ma.md)
+* [4.2 编码规范](resources/4.2-coding-standards.md)
+* [4.3 Doxygen指南](resources/4.3-doxygen-guidelines.md)
 
