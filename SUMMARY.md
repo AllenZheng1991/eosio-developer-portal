@@ -5,10 +5,10 @@
 * [1.1简介](development_environment/1.1introduction.md)
 * [1.2写在开始之前](development_environment/1.2before_you_begin.md)
 * [1.3你的开发环境](development_environment/1.3your_development_environment.md)
-* [1.4开发工具](13kai-fa-gong-ju.md)
-* [1.5构建你的智能合约开发环境](15gou-jian-ni-de-zhi-neng-he-yue-kai-fa-huan-jing.md)
-* [1.6创建开发钱包](16chuang-jian-kai-fa-qian-bao.md)
-* [1.7创建测试账号](17chuang-jian-ce-shi-zhang-hao.md)
+* [1.4开发工具](development_environment/1.4tools_you_will_be_using.md)
+* [1.5构建你的智能合约开发环境](development_environment/1.5build_the_contract_development_toolkit.md)
+* [1.6创建开发钱包](development_environment/1.6create_development_walleto.md)
+* [1.7创建测试账号](development_environment/1.7create_test_accounts.md)
 
 ## 2.智能合约开发
 
