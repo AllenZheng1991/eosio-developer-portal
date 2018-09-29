@@ -1,8 +1,8 @@
 # Summary
 
-## 1.Get Start
-
 ## 1.搭建开发环境
+
+* [Introduction](README.md)
 * [1.1 简介](development-environment/1.1-introduction.md)
 * [1.2 写在开始之前](development-environment/1.2-before-you-begin.md)
 * [1.3 你的开发环境](development_environment/1.3-your-development-environment.md)
@@ -15,8 +15,6 @@
 
 * [2.1 Hello World！](smart-contract/2.1-hello-world.md)
 * [2.2 Token的部署、发布和转账](smart-contract/2.2-deploy-issue-and-transfer-tokens.md)
-
-
 * [2.3 理解ABI文件](smart_contract/23-understanding-abi-files.md)
 * 2.4 数据持久化
 
