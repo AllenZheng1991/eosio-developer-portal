@@ -2,7 +2,7 @@
 
 ## 1.搭建开发环境
 
-* [1.1简介](README.md)
+* [1.1简介](dev_env_introduce.md)
 * [1.2写在开始之前](chapter1.md)
 * [1.3你的开发环境](dang-shi-de.md)
 * [1.4开发工具](13kai-fa-gong-ju.md)
