@@ -2,7 +2,7 @@
 
 EOSIO是一个免费、开源的区块链软件协议，它为开发者和企业提供了一个用于构建、部署和运行高性能去中心化APP（DAPPs）的平台。
 
-# 目录
+# 目录结构
 ## 1.搭建开发环境
 * [1.1 简介](development-environment/1.1-introduction.md)
 * [1.2 写在开始之前](development-environment/1.2-before-you-begin.md)
