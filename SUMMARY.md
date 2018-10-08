@@ -6,7 +6,7 @@
 * [1.1 简介](development-environment/1.1-introduction.md)
 * [1.2 写在你动手开发之前](development-environment/1.2-before-you-begin.md)
 * [1.3 你的开发环境](development_environment/1.3-your-development-environment.md)
-* [1.4 开发工具](development-environment/1.4-tools-you-will-be-using.md)
+* [1.4 你将会用到的开发工具](development-environment/1.4-tools-you-will-be-using.md)
 * [1.5 构建你的智能合约开发环境](development-environment/1.5-build-the-contract-development-toolkit.md)
 * [1.6 创建开发钱包](development-environment/1.6-create-development-wallet.md)
 * [1.7 创建测试账号](development-environment/1.7-create-test-accounts.md)
